@@ -1,1 +1,15 @@
-.Title {text-align: center;}
+#Title {text-align: center;}
+
+#oceanBack {
+    background: url("OceanBack.jpg");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-color: #365b49;
+}
+
+.subtitle {
+    color:antiquewhite;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
