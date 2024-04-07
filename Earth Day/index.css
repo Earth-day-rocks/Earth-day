@@ -1,10 +1,23 @@
-#Title {text-align: center;}
-
 #oceanBack {
     background: url("OceanBack.jpg");
     background-repeat: no-repeat;
     background-size: auto;
+    background-color: #004aad;
+}
+
+#homeBack {
+    background: url("Home page.png");
+    background-repeat: no-repeat;
+    background-size: auto;
     background-color: #365b49;
+}
+
+.Title {
+    color:antiquewhite;
+    font-weight: bold;
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 .subtitle {
