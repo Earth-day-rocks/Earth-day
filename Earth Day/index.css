@@ -1,19 +1,51 @@
-#homeBack {
-    background: url("Home page.png");
-    background-repeat: no-repeat;
-    background-size: auto;
-    background-color: #365b49;
+body{
+    background-image: url("Images/Second\ background.png");
+    background-color: #63a263b2;
 }
 
 .Title {
-    color:antiquewhite;
+    color:rgb(247, 230, 162);
     font-weight: bold;
     text-align: center;
-    font-size: 100px;
+    font-size: 3vw;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-shadow: #365b49;
+    -webkit-text-stroke-width: 0.08vw;
+    -webkit-text-stroke-color: rgba(0, 0, 0, 0.826);
+    float: right;
+    text-decoration-color: #4a876c;
+    text-decoration-line: underline;
 }
 
 #OceanGameButton {
     text-align: left;
     margin-left: 10%;
+}
+
+.DescriptionGame {
+    color:antiquewhite;
+    margin-left: 10%;
+    width: 16%;
+    text-align: center;
+    
+}
+
+#Introduction {
+    color:darkolivegreen;
+    font-size: 18px;
+    width: 30%;
+    text-align: center;
+    margin-left: 35%;
+
+
+}
+
+#Logo{
+    width: 35%;
+    height: 35%;
+    margin-left: 3%;
+    object-fit: cover;
+
+
+
 }
